@@ -15,3 +15,14 @@
 </nav>
 </body>
 </html>
+
+<!DOCTYPE html>
+<html>
+<head><title>Contact</title><link rel="stylesheet" href="css/style.css"></head>
+<body>
+<h2>Contact Us</h2>
+<p>Email: info@leancorpfoundation.org</p>
+<p>Location: Malawi</p>
+<p>Phone Number: +265 999769957
+</body>
+</html>
